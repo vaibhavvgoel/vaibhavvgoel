@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/itsvaibhavgoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsvaibhavgoel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhav--goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav--goel" height="30" width="40" /></a>
-<a href="https://instagram.com/in/_vaibhavgoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vaibhavgoel" height="30" width="40" /></a>
+<a href="https://instagram.com/_vaibhavgoel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vaibhavgoel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vaibhavgoel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavgoel1" height="30" width="40" /></a>
 </p>
 
