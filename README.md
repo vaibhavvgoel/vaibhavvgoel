@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Goel</h1>
-<h3 align="center">An aspiring Software Engineer from India</h3>
+![Header](./github-header-image.png)
 
 <p align="left"> <a href="https://twitter.com/itsvaibhavgoel" target="blank"><img src="https://img.shields.io/twitter/follow/itsvaibhavgoel?logo=twitter&style=for-the-badge" alt="itsvaibhavgoel" /></a> </p>
 
