@@ -3,30 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/itsvaibhavgoel" target="blank"><img src="https://img.shields.io/twitter/follow/itsvaibhavgoel?logo=twitter&style=for-the-badge" alt="itsvaibhavgoel" /></a> </p>
 
-<div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='medium'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='dark'
-  data-vanity='manavoza7'
->
-  <a
-    class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
-  >
-    Manav Oza
-  </a>
-</div>
-
- <script
-  type='text/javascript'
-  src='https://platform.linkedin.com/badges/js/profile.js'
-  async
-  defer
-></script>
-
 - 🔭 I’m currently Studying as a **Final year Computer Science Engineer**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in Java from Coding Ninjas**
