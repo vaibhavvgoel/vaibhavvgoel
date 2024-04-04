@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mailingvaibhavgoel@gmail.com**
 
-- 📄 Know about my experiences [https://www.icloud.com/iclouddrive/0b7TABraILlW_QTG3yxl-Xn1A#CSE_-_2020BTechCSE079_-_Vaibhav_Goel](https://jklujaipur-my.sharepoint.com/:b:/g/personal/vaibhavgoel_jklu_edu_in/EWJHN0NCfnpGj8Q9J97rxNkBfjO1DQeM2co0ElR7mWX6YA?e=2ypfCL)
+- 📄 Know about my experiences [https://jklujaipur-my.sharepoint.com/:b:/g/personal/vaibhavgoel_jklu_edu_in/EWJHN0NCfnpGj8Q9J97rxNkBfjO1DQeM2co0ElR7mWX6YA?e=2ypfCL]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
