@@ -10,8 +10,6 @@
 
 - 📄 Know about my experiences [https://www.icloud.com/iclouddrive/0b7TABraILlW_QTG3yxl-Xn1A#CSE_-_2020BTechCSE079_-_Vaibhav_Goel](https://www.icloud.com/iclouddrive/0b7TABraILlW_QTG3yxl-Xn1A#CSE_-_2020BTechCSE079_-_Vaibhav_Goel)
 
-- ⚡ Fun fact **I am a Part time Spiderman 🕷️**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsvaibhavgoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsvaibhavgoel" height="30" width="40" /></a>
