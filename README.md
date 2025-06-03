@@ -16,7 +16,6 @@
 
 <h3 align="center">🕸️ Connect with me before I vanish into another dimension:</h3>
 <p align="center">
-  <a href="https://twitter.com/itsvaibhavgoel" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
   <a href="https://linkedin.com/in/vaibhav--goel" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://instagram.com/_vaibhavgoel/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
   <a href="https://www.hackerrank.com/itsvaibhavgoel" target="blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
