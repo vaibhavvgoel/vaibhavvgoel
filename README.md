@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to the Multiverse of <code>Vaibhav Goel</code> 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBuLZ6kZuxyH5oY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NpemV3YTB3a2owNzhpN3U4b21ldDQ0djd0dDZ0cTNha2hiMmphaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NpemV3YTB3a2owNzhpN3U4b21ldDQ0djd0dDZ0cTNha2hiMmphaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200" />
 </p>
 
 > 🧠 Software Engineer @ <strong>Innowatts Energy</strong> by day  
