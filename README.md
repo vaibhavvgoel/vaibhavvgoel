@@ -10,7 +10,7 @@
 > 🛰️ Probably sending a commit from space right now 🚀  
 > 📬 Reach me through my secret communication channel:  
 > 📫 **mailingvaibhavgoel@gmail.com**  
-> 🧾 Wanna peek at my tech history? [🔗 Click if you dare](https://jklujaipur-my.sharepoint.com/:b:/g/personal/vaibhavgoel_jklu_edu_in/EWJHN0NCfnpGj8Q9J97rxNkBfjO1DQeM2co0ElR7mWX6YA?e=2ypfCL)
+> 🧾 Wanna peek at my tech history? [🔗 Click if you dare](https://drive.google.com/file/d/1PsCZcj1i6ULgtHLcDoYmiLuQlR315oW_/view?usp=sharing)
 
 ---
 
