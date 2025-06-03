@@ -6,7 +6,7 @@
 
 > 🧠 Software Engineer @ <strong>Innowatts Energy</strong> by day  
 > 🕶️ Code Alchemist brewing logic potions by night  
-> 🧩 Currently decoding the matrix of <strong>Data Structures & Algorithms in Java</strong> @ Coding Ninjas  
+> 🧩 Currently decoding the matrix of <strong>Data Structures & Algorithms in Java</strong> @ PW Skills  
 > 🛰️ Probably sending a commit from space right now 🚀  
 > 📬 Reach me through my secret communication channel:  
 > 📫 **mailingvaibhavgoel@gmail.com**  
